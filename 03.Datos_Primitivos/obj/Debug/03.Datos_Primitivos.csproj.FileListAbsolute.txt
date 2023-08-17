@@ -1,0 +1,8 @@
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\03.Datos_Primitivos\bin\Debug\03.Datos_Primitivos.exe.config
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\03.Datos_Primitivos\bin\Debug\03.Datos_Primitivos.exe
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\03.Datos_Primitivos\bin\Debug\03.Datos_Primitivos.pdb
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\03.Datos_Primitivos\obj\Debug\03.Datos_Primitivos.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\03.Datos_Primitivos\obj\Debug\03.Datos_Primitivos.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\03.Datos_Primitivos\obj\Debug\03.Datos_Primitivos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\03.Datos_Primitivos\obj\Debug\03.Datos_Primitivos.exe
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\03.Datos_Primitivos\obj\Debug\03.Datos_Primitivos.pdb
