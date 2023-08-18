@@ -1,0 +1,8 @@
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\14.EntradaYsalida\bin\Debug\14.EntradaYsalida.exe.config
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\14.EntradaYsalida\bin\Debug\14.EntradaYsalida.exe
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\14.EntradaYsalida\bin\Debug\14.EntradaYsalida.pdb
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\14.EntradaYsalida\obj\Debug\14.EntradaYsalida.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\14.EntradaYsalida\obj\Debug\14.EntradaYsalida.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\14.EntradaYsalida\obj\Debug\14.EntradaYsalida.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\14.EntradaYsalida\obj\Debug\14.EntradaYsalida.exe
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\14.EntradaYsalida\obj\Debug\14.EntradaYsalida.pdb
