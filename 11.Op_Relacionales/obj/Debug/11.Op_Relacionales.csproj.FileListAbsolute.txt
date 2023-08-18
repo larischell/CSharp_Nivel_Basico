@@ -1,0 +1,8 @@
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\11.Op_Relacionales\bin\Debug\11.Op_Relacionales.exe.config
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\11.Op_Relacionales\bin\Debug\11.Op_Relacionales.exe
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\11.Op_Relacionales\bin\Debug\11.Op_Relacionales.pdb
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\11.Op_Relacionales\obj\Debug\11.Op_Relacionales.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\11.Op_Relacionales\obj\Debug\11.Op_Relacionales.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\11.Op_Relacionales\obj\Debug\11.Op_Relacionales.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\11.Op_Relacionales\obj\Debug\11.Op_Relacionales.exe
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\11.Op_Relacionales\obj\Debug\11.Op_Relacionales.pdb
