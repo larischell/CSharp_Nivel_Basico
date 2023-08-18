@@ -1,0 +1,8 @@
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\12.Op_Logicos\bin\Debug\12.Op_Logicos.exe.config
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\12.Op_Logicos\bin\Debug\12.Op_Logicos.exe
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\12.Op_Logicos\bin\Debug\12.Op_Logicos.pdb
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\12.Op_Logicos\obj\Debug\12.Op_Logicos.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\12.Op_Logicos\obj\Debug\12.Op_Logicos.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\12.Op_Logicos\obj\Debug\12.Op_Logicos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\12.Op_Logicos\obj\Debug\12.Op_Logicos.exe
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\12.Op_Logicos\obj\Debug\12.Op_Logicos.pdb
