@@ -1,0 +1,8 @@
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\09.Op_Aritmeticos\bin\Debug\09.Op_Aritmeticos.exe.config
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\09.Op_Aritmeticos\bin\Debug\09.Op_Aritmeticos.exe
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\09.Op_Aritmeticos\bin\Debug\09.Op_Aritmeticos.pdb
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\09.Op_Aritmeticos\obj\Debug\09.Op_Aritmeticos.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\09.Op_Aritmeticos\obj\Debug\09.Op_Aritmeticos.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\09.Op_Aritmeticos\obj\Debug\09.Op_Aritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\09.Op_Aritmeticos\obj\Debug\09.Op_Aritmeticos.exe
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\09.Op_Aritmeticos\obj\Debug\09.Op_Aritmeticos.pdb
