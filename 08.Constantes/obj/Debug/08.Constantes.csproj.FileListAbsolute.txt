@@ -1,0 +1,8 @@
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\08.Constantes\bin\Debug\08.Constantes.exe.config
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\08.Constantes\bin\Debug\08.Constantes.exe
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\08.Constantes\bin\Debug\08.Constantes.pdb
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\08.Constantes\obj\Debug\08.Constantes.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\08.Constantes\obj\Debug\08.Constantes.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\08.Constantes\obj\Debug\08.Constantes.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\08.Constantes\obj\Debug\08.Constantes.exe
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\08.Constantes\obj\Debug\08.Constantes.pdb
