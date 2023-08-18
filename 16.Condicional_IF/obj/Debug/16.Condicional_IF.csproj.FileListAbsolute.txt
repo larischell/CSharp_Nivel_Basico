@@ -1,0 +1,8 @@
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\16.Condicional_IF\bin\Debug\16.Condicional_IF.exe.config
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\16.Condicional_IF\bin\Debug\16.Condicional_IF.exe
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\16.Condicional_IF\bin\Debug\16.Condicional_IF.pdb
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\16.Condicional_IF\obj\Debug\16.Condicional_IF.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\16.Condicional_IF\obj\Debug\16.Condicional_IF.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\16.Condicional_IF\obj\Debug\16.Condicional_IF.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\16.Condicional_IF\obj\Debug\16.Condicional_IF.exe
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\16.Condicional_IF\obj\Debug\16.Condicional_IF.pdb
