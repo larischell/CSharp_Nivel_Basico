@@ -1,0 +1,8 @@
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\19.Condicional_While\bin\Debug\19.Condicional_While.exe.config
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\19.Condicional_While\bin\Debug\19.Condicional_While.exe
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\19.Condicional_While\bin\Debug\19.Condicional_While.pdb
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\19.Condicional_While\obj\Debug\19.Condicional_While.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\19.Condicional_While\obj\Debug\19.Condicional_While.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\19.Condicional_While\obj\Debug\19.Condicional_While.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\19.Condicional_While\obj\Debug\19.Condicional_While.exe
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\19.Condicional_While\obj\Debug\19.Condicional_While.pdb
