@@ -1,0 +1,8 @@
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\21.Condicional_FOR\bin\Debug\21.Condicional_FOR.exe.config
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\21.Condicional_FOR\bin\Debug\21.Condicional_FOR.exe
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\21.Condicional_FOR\bin\Debug\21.Condicional_FOR.pdb
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\21.Condicional_FOR\obj\Debug\21.Condicional_FOR.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\21.Condicional_FOR\obj\Debug\21.Condicional_FOR.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\21.Condicional_FOR\obj\Debug\21.Condicional_FOR.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\21.Condicional_FOR\obj\Debug\21.Condicional_FOR.exe
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\21.Condicional_FOR\obj\Debug\21.Condicional_FOR.pdb
