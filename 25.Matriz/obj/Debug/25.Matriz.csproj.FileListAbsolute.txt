@@ -1,0 +1,8 @@
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\25.Matriz\bin\Debug\25.Matriz.exe.config
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\25.Matriz\bin\Debug\25.Matriz.exe
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\25.Matriz\bin\Debug\25.Matriz.pdb
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\25.Matriz\obj\Debug\25.Matriz.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\25.Matriz\obj\Debug\25.Matriz.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\25.Matriz\obj\Debug\25.Matriz.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\25.Matriz\obj\Debug\25.Matriz.exe
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\25.Matriz\obj\Debug\25.Matriz.pdb
