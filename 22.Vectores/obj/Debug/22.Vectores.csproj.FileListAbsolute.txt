@@ -1,0 +1,8 @@
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\22.Vectores\bin\Debug\22.Vectores.exe.config
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\22.Vectores\bin\Debug\22.Vectores.exe
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\22.Vectores\bin\Debug\22.Vectores.pdb
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\22.Vectores\obj\Debug\22.Vectores.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\22.Vectores\obj\Debug\22.Vectores.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\22.Vectores\obj\Debug\22.Vectores.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\22.Vectores\obj\Debug\22.Vectores.exe
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\22.Vectores\obj\Debug\22.Vectores.pdb
