@@ -1,0 +1,8 @@
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\29.Excepciones\bin\Debug\29.Excepciones.exe.config
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\29.Excepciones\bin\Debug\29.Excepciones.exe
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\29.Excepciones\bin\Debug\29.Excepciones.pdb
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\29.Excepciones\obj\Debug\29.Excepciones.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\29.Excepciones\obj\Debug\29.Excepciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\29.Excepciones\obj\Debug\29.Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\29.Excepciones\obj\Debug\29.Excepciones.exe
+C:\Users\USUARIO\source\repos\C#_Nivel_Basico\29.Excepciones\obj\Debug\29.Excepciones.pdb
